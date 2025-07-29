@@ -1,4 +1,4 @@
-# practica_1
+# practica 1
 Repositorio de practicas 1
 
 ## descripción
